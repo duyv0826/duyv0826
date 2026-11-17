@@ -14,7 +14,7 @@
 | 链接 | 内容 |
 |---|---|
 | [作品集 · 19 个作品](https://duyv0826.github.io/game-portfolio/) | 游戏设计 / 互动媒体 / 系统工程，多个可在线试玩 |
-| [学位作品页](https://game-design-portfolio-99765.app.workbuddy.host/) | 《澳里·光景》系统架构 + 《微光原野》可试玩 |
+| [学位作品页](https://duyv0826.github.io/game-portfolio/thesis/) | 《澳里·光景》系统架构 + 《微光原野》可试玩 |
 | [itch.io](https://duyv0826.itch.io) | 可玩版本发布 |
 
 ## 精选仓库
